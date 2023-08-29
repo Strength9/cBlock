@@ -1,4 +1,4 @@
-# Create Block cBlock
+# Create Block mkitso
 
 
 ## Quick Start
@@ -6,6 +6,6 @@
 Install globally via npm:
 
 ```sh
-npm install --global cBlock
+npm install --global mkitso
 ```
 
