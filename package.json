@@ -1,7 +1,7 @@
 {
     "name": "mkitso",
     "description": "Quickly create a new block",
-    "version": "1.0.2",
+    "version": "1.2.4",
     "main": "./lib/mkitso.js",
     "bin": {
         "mkitso": "bin/index.js"
